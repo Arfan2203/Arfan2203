@@ -6,7 +6,7 @@
   <a href="https://arfan-s-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/arfan-basha-shaik-682a25246/">LinkedIn</a> •
   <a href="https://github.com/Arfan2203">GitHub</a> •
-  <a href="mailto:basha.sk2203@gmail.com">Email</a>
+  <a href="mailto:arfanbs2203@gmail.com">Email</a>
 </p>
 
 ---
@@ -139,7 +139,7 @@ Aug 2024 – May 2026
 
 I am open to Software Engineering, Full-Stack Development, Backend Engineering, and AI/ML opportunities.
 
-Email: [basha.sk2203@gmail.com](mailto:basha.sk2203@gmail.com)
+Email: [arfanbs2203@gmail.com](mailto:arfanbs2203@gmail.com)
 LinkedIn: https://www.linkedin.com/in/arfan-basha-shaik-682a25246/
 Portfolio: https://arfan-s-portfolio.vercel.app/
 GitHub: https://github.com/Arfan2203
