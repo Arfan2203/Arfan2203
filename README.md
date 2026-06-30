@@ -6,7 +6,7 @@
   <a href="https://arfan-s-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/arfan-basha-shaik-682a25246/">LinkedIn</a> •
   <a href="https://github.com/Arfan2203">GitHub</a> •
-  <a href="mailto:arfanbs2203@gmail.com">Email</a>
+  <a href="mailto:basha.sk2203@gmail.com">Email</a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Built a GenAI-powered incident investigation assistant using a RAG-enabled workf
 
 Tech Stack: Python, FastAPI, React.js, Vite, OpenAI API, Qdrant, SQLAlchemy, SQLite, Generative AI, RAG
 
-Repo: YOUR_RUNEVA_REPO_LINK
+Repo: https://github.com/Arfan2203/runeva-ai-agent
 
 ---
 
@@ -75,7 +75,7 @@ Developed a full-stack code review platform that identifies programming language
 
 Tech Stack: React.js, Vite, JavaScript, Python, FastAPI, SQLite, REST APIs, Code Quality Analysis
 
-Repo: YOUR_REVIEWCODEAI_REPO_LINK
+Repo: https://github.com/Arfan2203/reviewcodeai
 
 ---
 
@@ -87,7 +87,7 @@ Built an NLP-based sentiment classifier for IMDB movie reviews using BiLSTM and 
 
 Tech Stack: Python, NLP, DistilBERT, BiLSTM, Pandas, NumPy
 
-Repo: YOUR_DISTILBERT_REPO_LINK
+Repo: https://github.com/Arfan2203/distilbert-bilstm-imdb-sentiment
 
 ---
 
@@ -139,7 +139,7 @@ Aug 2024 – May 2026
 
 I am open to Software Engineering, Full-Stack Development, Backend Engineering, and AI/ML opportunities.
 
-Email: [arfanbs2203@gmail.com](mailto:arfanbs2203@gmail.com)
+Email: [basha.sk2203@gmail.com](mailto:basha.sk2203@gmail.com)
 LinkedIn: https://www.linkedin.com/in/arfan-basha-shaik-682a25246/
 Portfolio: https://arfan-s-portfolio.vercel.app/
 GitHub: https://github.com/Arfan2203
