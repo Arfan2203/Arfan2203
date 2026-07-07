@@ -129,14 +129,7 @@ Aug 2024 – May 2026
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arfan2203&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfan2203&theme=tokyonight" height="165" />
-</p>
-
----
 
 ## Connect With Me
 
