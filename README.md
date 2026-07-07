@@ -103,9 +103,10 @@ Jan 2022 – Jul 2024 | India
 * Implemented secure authentication and authorization using OAuth 2.0, JWT, and role-based access control across 3 distinct user roles, strengthening application security.
 * Contributed to GraphQL schema design and resolver development, cutting unnecessary API calls by ~23% and improving frontend data-load efficiency.
 * Designed and managed PostgreSQL and MongoDB schemas for performance, scalability, and data integrity; wrote and optimized SQL queries, improving query response time by ~25% across dashboard and analytics modules.
-* Refactored legacy JavaScript and React components, reducing UI bugs by ~30% while improving code maintainability and frontend responsiveness.
+* Refactored legacy JavaScript and React components, reducing UI bugs by ~30% while improving code maintainability and frontend   responsiveness.
 *Implemented CI/CD pipelines using Jenkins and Docker to automate build, test, and deployment processes, reducing release times by ~40% and ensuring consistent application quality.
-*Collaborated within Agile teams across sprint planning, daily standups, code reviews and testing, facilitating cross-functional delivery with product, design, and data teams while supporting debugging and production issue resolution.
+*Collaborated within Agile teams across sprint planning, daily standups, code reviews and testing, facilitating cross-functional delivery  with product, design, and data teams while supporting debugging and production issue resolution.
+
 
 ---
 
