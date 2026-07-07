@@ -97,14 +97,15 @@ Repo: https://github.com/Arfan2203/distilbert-bilstm-imdb-sentiment
 
 Jan 2022 – Jul 2024 | India
 
-* Developed backend services using Python for tracking events, business logic, request validation, and secure API integrations.
-* Built responsive dashboard screens using React.js, JavaScript, HTML, and CSS for 150+ internal operations users.
-* Designed scalable RESTful APIs following OpenAPI/Swagger standards.
-* Implemented secure authentication and authorization using OAuth 2.0, JWT, and role-based access control.
-* Contributed to GraphQL schema design and resolver development, reducing unnecessary API calls.
-* Optimized SQL queries for tracking, user activity, and reporting modules.
-* Refactored legacy JavaScript and React components to improve maintainability and responsiveness.
-* Worked in Agile teams across sprint planning, standups, code reviews, testing, debugging, and production support.
+* Developed backend services using Python and FastAPI to process tracking events, handle business logic, validate request data, and expose secure APIs for frontend and system integrations, deployed on AWS EC2 with CloudWatch monitoring.
+* Built responsive dashboard screens using React.js, TypeScript, and Tailwind CSS — used by 150+ internal operations users to view tracking status, search records, filter data, and access reports.
+* Designed and implemented scalable RESTful APIs following OpenAPI/Swagger standards to support reliable communication between frontend modules and backend services.
+* Implemented secure authentication and authorization using OAuth 2.0, JWT, and role-based access control across 3 distinct user roles, strengthening application security.
+* Contributed to GraphQL schema design and resolver development, cutting unnecessary API calls by ~23% and improving frontend data-load efficiency.
+* Designed and managed PostgreSQL and MongoDB schemas for performance, scalability, and data integrity; wrote and optimized SQL queries, improving query response time by ~25% across dashboard and analytics modules.
+* Refactored legacy JavaScript and React components, reducing UI bugs by ~30% while improving code maintainability and frontend responsiveness.
+*Implemented CI/CD pipelines using Jenkins and Docker to automate build, test, and deployment processes, reducing release times by ~40% and ensuring consistent application quality.
+*Collaborated within Agile teams across sprint planning, daily standups, code reviews and testing, facilitating cross-functional delivery with product, design, and data teams while supporting debugging and production issue resolution.
 
 ---
 
